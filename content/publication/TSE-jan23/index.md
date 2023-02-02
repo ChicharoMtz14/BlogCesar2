@@ -35,13 +35,13 @@ featured: true
 links:
 # - name: Custom Link
   # url: http://example.org
-url_pdf: './publication/preprint/January-2023-Final-Issue-CMMS.pdf'
+url_pdf: './publication/TSE-jan23/January-2023-Final-Issue-CMMS.pdf'
 url_code: ''
 url_dataset: ''
 url_poster: ''
 url_project: ''
 url_slides: ''
-url_source: './publication/preprint/January-2023-Final-Issue.pdf'
+url_source: './publication/TSE-jan23/January-2023-Final-Issue.pdf'
 url_video: ''
 
 # Featured image
